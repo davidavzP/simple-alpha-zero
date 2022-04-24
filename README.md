@@ -1,5 +1,5 @@
 # simple-alpha-zero
-A preliminary project to test and explore an implementation of the Alpha Zero AI.
+A preliminary project to test and explore an implementation of the Alpha Zero AI. 
 
 **Make sure Tensorflow is intalled and updated**, see https://www.tensorflow.org/install for more details.
 
@@ -18,4 +18,6 @@ A preliminary project to test and explore an implementation of the Alpha Zero AI
 
 **_NOTE_:** The neural network needs this to be translated into a np.array of values {1, -1, 0} respectively 
 
+Credit: 
+  - Main algorithm follows code written by Surag Nair found here: https://web.stanford.edu/~surag/posts/alphazero.html
 
